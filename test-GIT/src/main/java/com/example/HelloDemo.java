@@ -13,10 +13,12 @@ public class HelloDemo {
 		System.out.println("hello World");
 		System.out.println("hello World");
 		System.out.println("hello World");
+		// 改动
 	}
 
 	public void test(){
 		int a=0;
 		a=a+10;
+		System.out.println(a);
 	}
 }
